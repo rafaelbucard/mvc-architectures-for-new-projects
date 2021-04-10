@@ -3,4 +3,4 @@
  2 Mini Frame work no modelo MVC em php puro , compativel com php 7.4 +
  
  
- Perfeito para iniciar um proketo php com Url amigavel e ótimos padros de arquitetura. 
+ Perfeito para iniciar um projeto php com Url amigavel e ótimos padros de arquitetura. 
